@@ -2,6 +2,8 @@ body {
    background-color:  #000;
 }
 
+   /* SIDEBAR */
+
 .sidebar {
    position: fixed;
    left: 0;
@@ -166,6 +168,8 @@ body {
    padding: 8px;
    border-radius: 20px;
 }
+
+   /* FOOTER */
 
 .disclaimer-premium {
    display: flex;
